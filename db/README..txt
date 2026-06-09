@@ -38,7 +38,7 @@ bajo la supervisión del Dr. José Alfonso Aguilar Calderón.
 
 1. Clonar o descargar el repositorio en `htdocs/`:
 
-git clone https://github.com/Cristopher-Emmanuel-Lizarraga-Hernandez/desarrollo-web-avanzado-fimaz-uas.git
+https://github.com/yahir1515/desarrollo-web-avanzado-fimaz-uas
 
 2. Importar la base de datos en phpMyAdmin:
    - Crear base de datos llamada `tienda_mvc`
